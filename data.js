@@ -46,7 +46,21 @@ const data =
         "was an Egyptian queen known for her famous bust, which shows realistic and graceful features, highlighting the natural beauty often used in royal art.": "Queen Nefertiti",
         "was a young Egyptian pharaoh whose tomb, found in 1922, amazed the world with its gold treasures and famous gold mask.": "King Tutankhamen",
 
-
+        "Four Periods of Greek Arts": "ARCHAIC PERIOD<br>CLASSICAL PERIOD<br>HELLENISTIC PERIOD<br>GEOMETRIC PERIOD",
+        "Is religious art with icons, mosaics, and frescoes in domed churches, known for rich colors and gold backgrounds.": "Byzantine Art",
+        "Is art inspired by ancient Greece and Rome, with improved techniques and more focus on realistic people and nature.": "Renaissance Art",
+        "Is vigorous and direct, was originally brightly colored, and is often very sophisticated": "Romanesque Art",
+        "Is an art style that used distorted shapes and space to show emotion, reacting against the balance and perfection of earlier Renaissance art.": "Mannerism",
+        "Is an art style from the Enlightenment that focused on reason, order, and classical themes from ancient Greece and Rome.": "Neoclassicism",
+        "Is an art style that focused on emotion, nature, and the goodness of people, promoting justice, equality, and strong feelings.": "Romanticism",
+        "Is an art style that shows life as it really is, with accurate details and everyday subjects, breaking away from traditional idealized art.": "Realism",
+        "Is a painting style from France that used light and color to capture quick, everyday moments, breaking from traditional art.": "Impressionism",
+        "Is an art style that grew from Impressionism but added more structure, emotion, and personal expression.": "Post-Impressionism",
+        "Is an art style that uses scientific techniques, like dots of color, to create specific effects and influence how viewers see the artwork.": "Neo-Impressionism",
+        "Is an ornamental art style from 1890 to 1910 that broke away from traditional, historical designs with flowing, natural forms.": "Art Nouveau",
+        "Is a painting style from France that used bold, vibrant colors directly from the paint tubes, creating a strong, emotional effect.": "Fauvism",
+        "Is an art style that focuses on flat, two-dimensional surfaces, breaking away from traditional techniques like perspective and modeling to show multiple views of objects at once.": "Cubism",
+        "Is an art movement from Italy in the early 20th century that focused on speed, energy, and the power of machines.": "Futurism"
 
 
     },
