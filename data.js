@@ -66,6 +66,14 @@ const data =
             "Is a painting style from France that used bold, vibrant colors directly from the paint tubes, creating a strong, emotional effect.": "Fauvism",
             "Is an art style that focuses on flat, two-dimensional surfaces, breaking away from traditional techniques like perspective and modeling to show multiple views of objects at once.": "Cubism",
             "Is an art movement from Italy in the early 20th century that focused on speed, energy, and the power of machines.": "Futurism"
+        },
+
+        "Chapter 9": {
+            "Is an art movement from the 1980s that revived the style of Pop Art, especially inspired by Andy Warhol and his peers. It mixed popular culture with the use of ready-made objects, similar to the earlier Dada movement. Neo-Pop artworks often looked like photos because of their clean, precise style, but without showing the artist’s personal touch.": "Neo-Pop Art",
+            "Is a type of modern art where the artist transforms a space using various objects, materials, lights, sounds, or even scents, creating an immersive experience for viewers. It is often large-scale, site-specific, and sometimes temporary.": "Installation Art",
+            "Is a style of art where the artist creates very detailed and realistic images, often based on photographs, making the artwork look almost like a real photo.": "Photorealism",
+            "Is a type of art where artists shape or change natural landscapes using materials like rocks, soil, or plants, creating large outdoor works that blend with nature.": "Earth Art",
+            "Is a form of public art that includes murals, stencils, stickers, and installations, often made in urban spaces using different styles and materials. It grew from graffiti and is meant to be seen by everyone in public places.": "Street Art"
         }
 
         
