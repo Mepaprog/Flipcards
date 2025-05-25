@@ -157,7 +157,7 @@
         Object.keys(ChaptersItem).forEach((key, index) => {
             const item = document.createElement('div');
             item.classList.add('item');
-            const itemInner = '<div class="flip-card-inner"><div class="front"><p>'+((Object.keys(OriChaptersItem).indexOf(key))+1)+'</p><text>'+key+'</text></div><div class="back"><text>'+ChaptersItem[key]+'</text></div></div>';
+            const itemInner = '<div class="flip-card-inner"><div class="front"><p>'+((Object.keys(OriChaptersItem).indexOf(key))+1)+'</p><text>'+ChaptersItem[key]+'</text></div><div class="back"><text>'+key+'</text></div></div>';
             item.innerHTML = itemInner;
             main.append(item);
         });
