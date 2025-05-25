@@ -1,5 +1,52 @@
 const data =
 {
+    "Philippines History": {
+        "Enumaration": {
+            "Bonifacio<br>Teodoro Plata<br>Valentin Diaz<br>Ladislao Diwa<br>Deodato Arellano": "FOUNDERS OF THE KATIPUNAN (July 7, 1892)",
+            "1.Civic<br>2.Political<br>3.Moral": "Andres Bonifacio set three main objectives for the Katipunan:",
+            "1. Maximo Inocencio.<br>2. Luis Aguad.<br>3. Victoriano Lucian.<br>4. Hugo Perez<br>5. Jose Llana<br>6. Antonio San Agustin<br>7. Agapito Conchu<br>8. Feliciano Cabuco.<br>9. Maximo Gregorio.<br>10. Eugenio Cabezas.<br>11. Severino Lapidario<br>12. Alfonso de Ocampo<br>13. Francisco Osorio": "Thirteen Martyrs of Cavite:"
+        },
+        "Chapter 10": {
+            "Andres Bonifacio": "He founded the Katipunan, a revolutionary society aimed at Filipino independence",
+            "Kataastaasan Kagalanggalang na Katipunan ng mga Anak ng Bayan": "KKK",
+            "Civic": "Promote self-help and protect the weak and poor.",
+            "Political": "Achieve Philippine independence from Spain.",
+            "Moral": "Teach good manners, hygiene, and strong moral character.",
+            "KKK": "A blood compact sealed their unity and patriotism.",
+            "The first official flag ": "(by Benita Rodriguez & Gregoria de Jesus): red cloth with three white K's.",
+            "Bonifacio's personal flag": "red cloth with a white sun (many rays) and three K's below it.",
+            "Bonifacio created a moral guide for members called": "Katungkulang Gagawin ng mga Anak ng Bayan",
+        },
+        "Chapter 11": {
+            "Andres Bonifacio": "Leader of the Katipunan.",
+            "Emilio Jacinto": "Katipunan member and close aide of Bonifacio.",
+            "Melchora Aquino (Tandang Sora)": "“Mother of the Katipunan”; provided shelter and support.",
+            "Juan A. Ramos": "Son of Tandang Sora; the meeting was held in his yard.",
+            "Francisco L. Roxas": "A Spaniard born in the Philippines who refused to support the Katipunan and threatened to report them.",
+            "December 30, 1896, 7:03 AM": "When Jose Rizal was executed at Bagumbayan Field (Luneta).",
+            "Luis Taviel de Andrade": "Rizal's Spanish military lawyer.",
+            "Francisco Olive": "Conducted Rizal's preliminary investigation.",
+            "Camilo Polavieja": "Governor General who signed the execution order.",
+            "First Clash": "August 25, 1896",
+            "Kataastaasang Sanggunian (Supreme Council)": "central government",
+            "Sangguniang Bayan (Provincial Council)": "provincial level",
+            "Sangguniang Balangay (Popular Council)": "municipal level",
+            "First Council (1892):": "Deodato Arellano (Supremo), Bonifacio (Comptroller), Plata, Diwa, Diaz",
+            "Second Council (1893):": "Roman Basa (Supremo), Bonifacio (Fiscal), Santiago, Molina",
+            "Katipon - Password": "Anak ng Bayan",
+            "Kawal - Password": "Gom-Bur-Za",
+            "Bayani - Password": "Rizal",
+            "Josefa Rizal - President<br>Gregoria de Jesus - Vice President<br>Marina Dizon - Secretary<br>Angelica Lopez Rizal - Fiscal":"Prominent women leaders included",
+            "1. Magdiwang - favored the retention of the Katipunan<br>2. Magdalo - favored a change in theKatipunan structure.": "Two Factions of Katipunan",
+            "Date: May 10, 1897<br>Place: Mount Tala, Maragondon, Cavite": "Execution of Andres Bonifacio",
+        },
+        "Chapter 12": {
+            "Pact of Biak-na-Bato (1897)": "A truce between Filipino revolutionaries and the Spanish government. Allowed both sides to rest and recover.",
+        },
+        "Chapter 15": {
+            "250,000 Filipinos ": "Estimated deaths on phil-american war"
+        }
+    },
     "Ped012": {
         "PE": {
             "It is an integral part of the educational program designed to promote the optimum development of the individual physically, socially, emotionally, and mentally through total body movement in the performance of properly selected physical activities (Andin, 1988).": "Physical Education",
