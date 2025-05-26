@@ -15,7 +15,7 @@ const data =
             "KKK": "A blood compact sealed their unity and patriotism.",
             "The first official flag ": "(by Benita Rodriguez & Gregoria de Jesus): red cloth with three white K's.",
             "Bonifacio's personal flag": "red cloth with a white sun (many rays) and three K's below it.",
-            "Bonifacio created a moral guide for members called": "Katungkulang Gagawin ng mga Anak ng Bayan",
+            "Katungkulang Gagawin ng mga Anak ng Bayan": "Bonifacio created a moral guide for members called",
         },
         "Chapter 11": {
             "Andres Bonifacio": "Leader of the Katipunan.",
